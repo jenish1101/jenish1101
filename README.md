@@ -14,7 +14,7 @@ I am a passionate developer who loves building digital solutions. Based in <b>Su
 <a href="mailto:jenish11.tech@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://jenishgondaliya.netlify.app/">
+<a href="https://jenishgondaliya.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
 </a>
 
