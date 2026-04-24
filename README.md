@@ -41,6 +41,7 @@ Just like on my website, here is my technical arsenal broken down by category:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-%23000000.svg?style=flat&logo=astro&logoColor=white)
 
 ### 🔌 Backend & API
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
