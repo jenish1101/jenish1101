@@ -45,6 +45,7 @@ Just like on my website, here is my technical arsenal broken down by category:
 
 ### 🔌 Backend & API
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&logoColor=white)
 ![REST API](https://img.shields.io/badge/API-REST-red?style=flat)
