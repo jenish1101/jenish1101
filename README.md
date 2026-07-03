@@ -2,10 +2,16 @@
 
 # Hi there, I'm Jenish Gondaliya! 👋
 
-### 👨‍💻 Full Stack Developer | Creative Coder | Problem Solver
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Digital+Solutions;Always+Learning+New+Technologies" />
+</p>
+
+### 👨‍💻 Full Stack Software Engineer | Building Scalable Digital Solutions | Problem Solver
 
 <p>
-I am a passionate developer who loves building digital solutions. Based in <b>Surat, Gujarat, India</b>, I specialize in creating robust web applications with modern technologies. I love turning complex problems into simple, beautiful, and intuitive designs.
+I'm a passionate <b>Full Stack Software Engineer</b> based in <b>Surat, Gujarat, India 🇮🇳</b>, specializing in building scalable web applications, REST APIs, and modern user experiences. I enjoy solving complex engineering challenges and transforming ideas into scalable, efficient, and reliable software solutions.
+
+💡 Interested in Full Stack Development, System Design, AI Integrations, Cloud Technologies, and Scalable Software Architecture.
 </p>
 
 <a href="https://linkedin.com/in/jenishgondaliya">
@@ -27,7 +33,7 @@ I am a passionate developer who loves building digital solutions. Based in <b>Su
 
 ## 🛠 Skills & Tech Stack
 
-Just like on my website, here is my technical arsenal broken down by category:
+Here are the technologies I use to build scalable web and mobile applications.
 
 ### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -114,11 +120,10 @@ Here are some of the projects highlighted in my portfolio:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenish1101&theme=gotham&hide_border=true" alt="streak graph" />
 </div> -->
 
----
-
 <div align="center">
 
 ### Let's build something amazing together! 🚀
+📫 Open to exciting opportunities, collaborations, and software engineering discussions.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/jenishgondaliya)
 [<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jenish1101)
