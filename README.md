@@ -42,7 +42,6 @@ Here are the technologies I use to build scalable web and mobile applications.
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
@@ -83,42 +82,6 @@ Here are the technologies I use to build scalable web and mobile applications.
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 
 ---
-
-<!--## 📂 Featured Projects
-
-Here are some of the projects highlighted in my portfolio:
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Library Management** | A system to manage book inventories and member records. | `MERN Stack` `JWT` |
-| **ZeeCare Healthcare** | Healthcare management platform for patient appointments. | `Next.js` `Tailwind` |
-| **Crypto Tracker** | Real-time cryptocurrency tracking dashboard. | `React` `CoinGecko API` |
-| **Amazon Clone** | A functional clone of the Amazon e-commerce platform. | `React` `Firebase` |
-| **NewsApp** | A daily news aggregator application. | `React` `NewsAPI` |
-| **Shop** | A modern e-commerce shopping experience. | `React` `Redux` |
-| **FileConverter** | A utility tool to convert file formats easily. | `Node.js` `FFmpeg` |
-
----
-
-## 🎓 Education
-
-* **Bachelor of Computer Applications (BCA)**
-    * *Ongoing / Completed*
-
---- -->
-<!-- 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenish1101&show_icons=true&theme=gotham&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenish1101&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenish1101&theme=gotham&hide_border=true" alt="streak graph" />
-</div> -->
 
 <div align="center">
 
